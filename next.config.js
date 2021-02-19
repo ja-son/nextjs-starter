@@ -1,3 +1,4 @@
+// added comment
 const data = require('./utils/projectsData');
 
 module.exports = {
