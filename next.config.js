@@ -1,4 +1,3 @@
-// comment to trigger webhook
 const data = require('./utils/projectsData');
 
 module.exports = {
