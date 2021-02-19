@@ -1,3 +1,4 @@
+// import our database logic
 const data = require('./utils/projectsData');
 
 module.exports = {
